@@ -1,0 +1,23 @@
+{
+  "organization": {
+    "id": "shivaram19",
+    "name": "shivaram19"
+  },
+  "github": {
+    "enabled": true,
+    "repositories": [
+      "shivaram19/aadhar-blockchain",
+      "shivaram19/habit-tracker-365"
+    ],
+    "exclude_paths": [
+      ".git",
+      "node_modules",
+      "__pycache__",
+      ".env"
+    ]
+  },
+  "google_drive": {
+    "enabled": false,
+    "folders": []
+  }
+}
